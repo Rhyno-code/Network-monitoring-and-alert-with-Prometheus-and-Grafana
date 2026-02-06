@@ -1,0 +1,11 @@
+groups:
+  - name: arp_spoofing_alerts
+    rules:
+    - alert: ARP_Spoofing_Detected
+      expr: arp_spoofing_status == 1
+      for: 10s
+      labels:
+        severity: critical
+      annotations:
+        summary: "ARP Spoofing attack detected"
+        description: "An ARP spoofing attack has been detected on the network"

@@ -1,0 +1,26 @@
+groups:
+- name: network_alerts
+  rules:
+  - alert: HighIPv4Latency
+    expr: ipv4_latency_ms > 30
+    for: 2m
+    labels:
+      severity: warning
+    annotations:
+      summary: "High IPv4 Latency Detected"
+      description: "IPv4 latency to {{ $labels.instance }} is {{ $value }}ms, exceeding 100ms"
+  - alert: HighPacketLoss
+    expr: ipv4_packet_loss_pct > 10
+    for: 5m
+    labels:
+      severity: critical
+    annotations:
+      summary: "High ipv4 packet loss"
+      description: "Packet loss to {{ $labels.instance }} is {{ $value }}%, exceeding 10%."
+  - alert: ARP Spooofing Detected
+    expr: increase(arp_spoofing_events[5m]) > 5
+    for: 1m
+    labels:
+      severity: critical
+    annotations:
+      summary: "Multiple ARP spoofing attempts detected in the last 5 minutes!"

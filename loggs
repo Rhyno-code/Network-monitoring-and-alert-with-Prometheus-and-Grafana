@@ -1,0 +1,1046 @@
+Prometheus metrics available at http://localhost:8001
+Monitoring interface: \Device\NPF_{AF08BB19-6C63-48F6-A460-62323742DF31}
+Ensure this matches your VirtualBox Host-Only Adapter name (check 'ipconfig').
+Starting SYN and ICMP flood monitoring... (updates every 10 seconds)
+
+--- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 1
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 19
+CPU Usage: 8.4%
+Memory Usage: 86.4%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 28
+CPU Usage: 7.0%
+Memory Usage: 86.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 39
+CPU Usage: 8.8%
+Memory Usage: 86.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 10
+SYN packets per second: 1.00
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 44
+CPU Usage: 8.7%
+Memory Usage: 86.3%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 45
+CPU Usage: 8.0%
+Memory Usage: 86.3%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 45
+CPU Usage: 9.1%
+Memory Usage: 85.6%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 1
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 46
+CPU Usage: 13.3%
+Memory Usage: 85.6%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 46
+CPU Usage: 9.0%
+Memory Usage: 85.6%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 14
+SYN packets per second: 1.32
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 49
+CPU Usage: 58.9%
+Memory Usage: 85.7%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 49
+CPU Usage: 10.3%
+Memory Usage: 85.7%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 4
+SYN packets per second: 0.40
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 51
+CPU Usage: 6.8%
+Memory Usage: 85.8%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 10
+SYN packets per second: 1.00
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 53
+CPU Usage: 8.2%
+Memory Usage: 85.8%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 53
+CPU Usage: 7.4%
+Memory Usage: 85.6%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 55
+CPU Usage: 16.4%
+Memory Usage: 85.8%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+Prometheus metrics available at http://localhost:8001
+Monitoring interface: \Device\NPF_{AF08BB19-6C63-48F6-A460-62323742DF31} 
+Ensure this matches your VirtualBox Host-Only Adapter name (check 'ipconfig').
+Starting SYN and ICMP flood monitoring... (updates every 10 seconds)
+Error: strftime() takes at least 1 argument (0 given)
+Error: strftime() takes at least 1 argument (0 given)
+Prometheus metrics available at http://localhost:8001
+Monitoring interface: \Device\NPF_{AF08BB19-6C63-48F6-A460-62323742DF31} 
+Ensure this matches your VirtualBox Host-Only Adapter name (check 'ipconfig').
+Starting SYN and ICMP flood monitoring... (updates every 10 seconds)
+
+--- Monitoring Results ---  1769676651.328366
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 19
+CPU Usage: 6.4%
+Memory Usage: 87.4%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676662.3323846
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 26
+CPU Usage: 10.7%
+Memory Usage: 87.4%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676673.33855
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 31
+CPU Usage: 8.4%
+Memory Usage: 88.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676684.3458843
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 31
+CPU Usage: 13.7%
+Memory Usage: 88.0%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676695.3521674
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 33
+CPU Usage: 8.2%
+Memory Usage: 88.0%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676706.3567731
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 33
+CPU Usage: 10.0%
+Memory Usage: 88.0%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676717.3645954
+Total SYN packets received: 5
+SYN packets per second: 0.50
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 34
+CPU Usage: 39.4%
+Memory Usage: 88.5%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676728.3718958
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 35
+CPU Usage: 6.6%
+Memory Usage: 86.4%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676739.3768058
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 36
+CPU Usage: 12.7%
+Memory Usage: 85.3%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676750.3810163
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 36
+CPU Usage: 8.6%
+Memory Usage: 85.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676761.3903577
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 36
+CPU Usage: 68.0%
+Memory Usage: 85.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676772.4025018
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 36
+CPU Usage: 8.6%
+Memory Usage: 85.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676783.5419145
+Total SYN packets received: 4
+SYN packets per second: 0.39
+Half-open connections: 1
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 36
+CPU Usage: 94.2%
+Memory Usage: 85.4%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676794.5473533
+Total SYN packets received: 4
+SYN packets per second: 0.40
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 37
+CPU Usage: 20.2%
+Memory Usage: 85.7%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676805.55554
+Total SYN packets received: 5
+SYN packets per second: 0.50
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 38
+CPU Usage: 18.9%
+Memory Usage: 86.0%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676816.560719
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 3
+ICMP packets per second: 0.30
+Unique source IPs: 39
+CPU Usage: 8.0%
+Memory Usage: 86.3%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676827.5653465
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 2
+ICMP packets per second: 0.20
+Unique source IPs: 39
+CPU Usage: 5.7%
+Memory Usage: 86.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676838.57126
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 3
+ICMP packets per second: 0.30
+Unique source IPs: 39
+CPU Usage: 12.8%
+Memory Usage: 86.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676849.5757492
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 2
+ICMP packets per second: 0.20
+Unique source IPs: 39
+CPU Usage: 6.8%
+Memory Usage: 86.3%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676860.580871
+Total SYN packets received: 5
+SYN packets per second: 0.50
+Half-open connections: 0
+Total ICMP Echo Request packets received: 2
+ICMP packets per second: 0.20
+Unique source IPs: 41
+CPU Usage: 6.8%
+Memory Usage: 87.4%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676871.586584
+Total SYN packets received: 5
+SYN packets per second: 0.50
+Half-open connections: 0
+Total ICMP Echo Request packets received: 2
+ICMP packets per second: 0.20
+Unique source IPs: 41
+CPU Usage: 9.6%
+Memory Usage: 87.5%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676882.590675
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 3
+ICMP packets per second: 0.30
+Unique source IPs: 41
+CPU Usage: 7.8%Starting Dual-Stack Monitoring (IPv4 and IPv6)...
+IPv4: Latency=78.14ms, Jitter=43.85ms, Loss=20.00%, Throughput=94.71bps
+IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+IPv4: Latency=57.38ms, Jitter=23.86ms, Loss=10.00%, Throughput=110.40bps
+IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+IPv4: Latency=68.02ms, Jitter=28.59ms, Loss=20.00%, Throughput=95.61bps
+IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+
+Memory Usage: 87.4%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676893.5950656
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 3
+ICMP packets per second: 0.30
+Unique source IPs: 41
+CPU Usage: 6.6%
+Memory Usage: 87.4%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676904.6001937
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 1
+ICMP packets per second: 0.10
+Unique source IPs: 42
+CPU Usage: 10.2%
+Memory Usage: 87.4%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676915.6055865
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 1
+Total ICMP Echo Request packets received: 2
+ICMP packets per second: 0.20
+Unique source IPs: 42
+CPU Usage: 36.1%
+Memory Usage: 87.4%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676926.6102834
+Total SYN packets received: 6
+SYN packets per second: 0.60
+Half-open connections: 0
+Total ICMP Echo Request packets received: 3
+ICMP packets per second: 0.30
+Unique source IPs: 43
+CPU Usage: 6.4%
+Memory Usage: 87.4%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+--- Monitoring Results ---  1769676937.6151218
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 3
+ICMP packets per second: 0.30
+Unique source IPs: 43
+CPU Usage: 6.6%
+Memory Usage: 87.4%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+Starting Monitoring (IPv4)...
+IPv4: Latency=8.04ms, Jitter=3.27ms, Loss=0.00%, Throughput=507.36bps
+IPv4: Latency=6.95ms, Jitter=0.42ms, Loss=0.00%, Throughput=507.94bps
+IPv4: Latency=7.51ms, Jitter=1.36ms, Loss=0.00%, Throughput=507.56bps
+IPv4: Latency=9.05ms, Jitter=3.01ms, Loss=0.00%, Throughput=506.77bps
+IPv4: Latency=8.64ms, Jitter=1.07ms, Loss=0.00%, Throughput=506.97bps
+IPv4: Latency=8.29ms, Jitter=1.89ms, Loss=0.00%, Throughput=507.17bps
+IPv4: Latency=7.84ms, Jitter=1.17ms, Loss=0.00%, Throughput=507.43bps
+IPv4: Latency=18.76ms, Jitter=32.37ms, Loss=0.00%, Throughput=501.91bps
+IPv4: Latency=8.11ms, Jitter=0.64ms, Loss=0.00%, Throughput=507.22bps
+IPv4: Latency=8.51ms, Jitter=0.84ms, Loss=0.00%, Throughput=506.97bps
+IPv4: Latency=22.20ms, Jitter=34.04ms, Loss=0.00%, Throughput=491.51bps
+IPv4: Latency=8.10ms, Jitter=0.64ms, Loss=0.00%, Throughput=507.30bps
+Prometheus metrics available at http://localhost:8001
+Monitoring interface: \Device\NPF_{AF08BB19-6C63-48F6-A460-62323742DF31} 
+Ensure this matches your VirtualBox Host-Only Adapter name (check 'ipconfig').
+Starting SYN and ICMP flood monitoring... (updates every 10 seconds)
+
+   2026-01-29 10:12:51 --- Monitoring Results ---
+Total SYN packets received: 0
+SYN packets per second: 0.00
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 14
+CPU Usage: 7.4%
+Memory Usage: 88.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:13:02 --- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 22
+CPU Usage: 8.4%
+Memory Usage: 88.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:13:13 --- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 29
+CPU Usage: 38.6%
+Memory Usage: 88.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:13:24 --- Monitoring Results ---
+Total SYN packets received: 9
+SYN packets per second: 0.90
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 33
+CPU Usage: 11.3%
+Memory Usage: 88.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:13:35 --- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 33
+CPU Usage: 29.3%
+Memory Usage: 88.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:13:46 --- Monitoring Results ---
+Total SYN packets received: 7
+SYN packets per second: 0.70
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 33
+CPU Usage: 47.4%
+Memory Usage: 88.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:13:57 --- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 33
+CPU Usage: 4.9%
+Memory Usage: 88.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:14:08 --- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 33
+CPU Usage: 6.6%
+Memory Usage: 88.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:14:19 --- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 33
+CPU Usage: 5.3%
+Memory Usage: 88.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:14:30 --- Monitoring Results ---
+Total SYN packets received: 7
+SYN packets per second: 0.70
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 35
+CPU Usage: 7.6%
+Memory Usage: 88.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:14:41 --- Monitoring Results ---
+Total SYN packets received: 6
+SYN packets per second: 0.60
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 35
+CPU Usage: 11.5%
+Memory Usage: 88.6%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:14:52 --- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 35
+CPU Usage: 7.8%
+Memory Usage: 88.8%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:15:03 --- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 36
+CPU Usage: 11.3%
+Memory Usage: 89.6%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:15:14 --- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 36
+CPU Usage: 7.6%
+Memory Usage: 89.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:15:25 --- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 36
+CPU Usage: 7.2%
+Memory Usage: 89.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:15:36 --- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 37
+CPU Usage: 6.3%
+Memory Usage: 89.3%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:15:47 --- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 37
+CPU Usage: 7.8%
+Memory Usage: 89.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:15:58 --- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 37
+CPU Usage: 7.0%
+Memory Usage: 89.3%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:16:09 --- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 1
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 38
+CPU Usage: 5.6%
+Memory Usage: 89.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:16:20 --- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 39
+CPU Usage: 5.5%
+Memory Usage: 89.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:16:31 --- Monitoring Results ---
+Total SYN packets received: 7
+SYN packets per second: 0.70
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 41
+CPU Usage: 37.9%
+Memory Usage: 87.0%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:16:42 --- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 42
+CPU Usage: 6.8%
+Memory Usage: 87.3%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:16:53 --- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 42
+CPU Usage: 28.2%
+Memory Usage: 87.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:17:04 --- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 42
+CPU Usage: 5.1%
+Memory Usage: 87.3%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:17:15 --- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 42
+CPU Usage: 6.4%
+Memory Usage: 87.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:17:26 --- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 43
+CPU Usage: 14.8%
+Memory Usage: 87.2%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:17:37 --- Monitoring Results ---
+Total SYN packets received: 6
+SYN packets per second: 0.60
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 43
+CPU Usage: 4.1%
+Memory Usage: 87.0%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:17:48 --- Monitoring Results ---
+Total SYN packets received: 8
+SYN packets per second: 0.80
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 43
+CPU Usage: 6.2%
+Memory Usage: 87.0%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:17:59 --- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 43
+CPU Usage: 6.8%
+Memory Usage: 87.0%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:18:10 --- Monitoring Results ---
+Total SYN packets received: 6
+SYN packets per second: 0.60
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 43
+CPU Usage: 37.8%
+Memory Usage: 87.3%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:18:21 --- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 43
+CPU Usage: 12.3%
+Memory Usage: 87.7%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:18:32 --- Monitoring Results ---
+Total SYN packets received: 7
+SYN packets per second: 0.70
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 43
+CPU Usage: 5.7%
+Memory Usage: 87.3%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:18:43 --- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 43
+CPU Usage: 10.8%
+Memory Usage: 87.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:18:54 --- Monitoring Results ---
+Total SYN packets received: 7
+SYN packets per second: 0.70
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 46
+CPU Usage: 6.2%
+Memory Usage: 87.9%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:19:05 --- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 46
+CPU Usage: 6.2%
+Memory Usage: 87.9%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:19:16 --- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 46
+CPU Usage: 8.6%
+Memory Usage: 88.0%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:19:27 --- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 46
+CPU Usage: 7.0%
+Memory Usage: 88.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:19:38 --- Monitoring Results ---
+Total SYN packets received: 5
+SYN packets per second: 0.50
+Half-open connections: 1
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 46
+CPU Usage: 6.6%
+Memory Usage: 87.9%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:19:49 --- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 46
+CPU Usage: 7.0%
+Memory Usage: 87.9%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:20:00 --- Monitoring Results ---
+Total SYN packets received: 2
+SYN packets per second: 0.20
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 46
+CPU Usage: 6.2%
+Memory Usage: 87.9%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:20:11 --- Monitoring Results ---
+Total SYN packets received: 1
+SYN packets per second: 0.10
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 46
+CPU Usage: 7.6%
+Memory Usage: 88.1%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:20:22 --- Monitoring Results ---
+Total SYN packets received: 7
+SYN packets per second: 0.70
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 46
+CPU Usage: 7.0%
+Memory Usage: 87.9%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.
+
+   2026-01-29 10:20:33 --- Monitoring Results ---
+Total SYN packets received: 3
+SYN packets per second: 0.30
+Half-open connections: 0
+Total ICMP Echo Request packets received: 0
+ICMP packets per second: 0.00
+Unique source IPs: 46
+CPU Usage: 6.2%
+Memory Usage: 88.0%
+No significant SYN flood activity detected.
+No significant ICMP flood activity detected.

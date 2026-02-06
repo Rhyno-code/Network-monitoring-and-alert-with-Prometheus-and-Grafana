@@ -1,0 +1,22 @@
+ groups:
+  - name: port_scan_alerts
+    rules:
+    #alerts when a port scan is detected
+    - alert: PossiblePortSCanDetected
+      expr: port_scans_detected > 0
+      for: 10s
+      labels:
+        severity: critical
+      annotations:
+        summary: "Possible Port scan detected"
+        description: "A potential port scan has been detected on the network. Total scans: {{$value}}"
+
+    #alerts when an Ip is scanning multiple ports
+    - alert: HighPortScanActivity
+      expr: port_scans_per_ip > 5
+      for: 30s
+      labels:
+        severity: warning
+      annotations:
+        summary: "Unusual port scanning activity"
+        description: "IP {{$labels.ip_address}} has accessed {{$value}} unique ports in a short time"

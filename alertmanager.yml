@@ -1,0 +1,22 @@
+global:
+  resolve_timeout: 5m
+  
+route:
+  group_by: ['severity']
+  group_wait: 30s
+  group_interval: 5m
+  repeat_interval: 1h
+  receiver: 'email_notifications'
+
+receivers:
+  - name: 'email_notifications'
+    email_configs:
+      - to: 'meganrussell065@gmail.com'
+        from: 'meganrussell065@gmail.com'
+        smarthost: 'smtp.gmail.com:587'
+        auth_username: 'meganrussell065@gmail.com'
+        auth_password: 'jookdbqamzwbukwk'
+        require_tls: true
+        send_resolved: true
+
+

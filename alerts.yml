@@ -1,0 +1,82 @@
+ groups:
+  - name: network_monitoring_alerts
+    rules:
+    - alert: HighLatency
+      expr: |
+        ipv4_latency_ms > 100
+      for: 5m
+      labels:
+        severity: warning
+      annotations:
+        summary: "High Latency detected"
+        description: "{{ $labels.instance }} Latency is {{ $value }}ms, which is above threshold(100ms)"
+
+    - alert: PacketLossHigh
+      expr: |
+        ipv4_packet_loss_pct > 5
+      for: 5m
+      labels:
+        severity: critical
+      annotations:
+        summary: "High Packet loss detected"
+        description: "{{ $labels.instance }} Packet loss is {{ $value }}%, which is above threshold(5%)"
+
+    - alert: NetworkJitterHigh
+      expr: |
+        ipv4_jitter_ms > 50
+      for: 5m
+      labels:
+        severity: warning
+      annotations:
+        summary: "High Network Jitter detected"
+        description: "{{$labels.instance}} Jitter is {{ $value }}ms, which is above threshold(50ms)"
+
+    - alert: LowThroughput
+      expr: |
+        ipv4_throughput_bps < 100
+      for: 5m
+      labels:
+        severity: warning
+      annotations:
+        summary: "Low Network Throughput detected"
+        description: "{{ $labels.instance }} Throughput is {{ $value }}bps, which is below threshold(1000bps)"
+
+    - alert: MonitoringServiceDown
+      expr: |
+        up{job="network_monitor"} == 0
+      for: 2m
+      labels:
+        severity: critical
+      annotations:
+        summary: "Network monitoring service is down"
+        description: " The network monitoring service has been down for more than two minutes"
+
+  - name: infrastructure-reliability-alerts
+    rules:
+
+      - alert: HostDown
+        expr: uptime_ms == 0
+        for: 30s
+        labels:
+          severity: critical
+        annotations:
+          summary: "Host is Down"
+          description: "The target IP has not responded for 30 seconds."
+
+      - alert: HighConnectionTime
+        expr: connection_establishment_time_ms > 1
+        for: 15s
+        labels:
+          severity: warning
+        annotations:
+          summary: "High Connection Time"
+          description: "Connection time > 1s for {{ $labels.instance }}"
+
+      - alert: HighMTTR
+        expr: MTTR > 60
+        for: 1m
+        labels:
+          severity: warning
+        annotations:
+          summary: "MTTR Exceeded"
+          description: "Mean Time to Repair exceeds 60 seconds"

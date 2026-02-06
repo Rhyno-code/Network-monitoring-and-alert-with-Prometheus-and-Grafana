@@ -1,0 +1,25 @@
+Starting Dual-Stack Monitoring (IPv4 and IPv6)...
+ 2026-01-29 10:19:35 ~ IPv4: Latency=7.57ms, Jitter=1.56ms, Loss=0.00%, Throughput=101.17bps
+  2026-01-29 10:19:35 ~ IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+ 2026-01-29 10:20:30 ~ IPv4: Latency=8.63ms, Jitter=3.43ms, Loss=0.00%, Throughput=101.75bps
+  2026-01-29 10:20:30 ~ IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+ 2026-01-29 10:21:26 ~ IPv4: Latency=7.79ms, Jitter=1.78ms, Loss=0.00%, Throughput=101.13bps
+  2026-01-29 10:21:26 ~ IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+ 2026-01-29 10:22:21 ~ IPv4: Latency=7.13ms, Jitter=1.01ms, Loss=0.00%, Throughput=101.77bps
+  2026-01-29 10:22:21 ~ IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+ 2026-01-29 10:23:16 ~ IPv4: Latency=6.51ms, Jitter=0.34ms, Loss=0.00%, Throughput=101.89bps
+  2026-01-29 10:23:16 ~ IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+ 2026-01-29 10:24:12 ~ IPv4: Latency=6.44ms, Jitter=0.29ms, Loss=0.00%, Throughput=101.80bps
+  2026-01-29 10:24:12 ~ IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+ 2026-01-29 10:25:07 ~ IPv4: Latency=7.68ms, Jitter=3.84ms, Loss=0.00%, Throughput=101.52bps
+  2026-01-29 10:25:07 ~ IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+ 2026-01-29 10:26:02 ~ IPv4: Latency=6.46ms, Jitter=0.33ms, Loss=0.00%, Throughput=101.83bps
+  2026-01-29 10:26:02 ~ IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+ 2026-01-29 10:26:58 ~ IPv4: Latency=7.52ms, Jitter=1.24ms, Loss=0.00%, Throughput=101.63bps
+  2026-01-29 10:26:58 ~ IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+ 2026-01-29 10:27:53 ~ IPv4: Latency=7.52ms, Jitter=1.95ms, Loss=0.00%, Throughput=101.60bps
+  2026-01-29 10:27:53 ~ IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+ 2026-01-29 10:28:49 ~ IPv4: Latency=12.46ms, Jitter=2.93ms, Loss=0.00%, Throughput=101.38bps
+  2026-01-29 10:28:49 ~ IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps
+ 2026-01-29 10:29:44 ~ IPv4: Latency=13.32ms, Jitter=2.80ms, Loss=0.00%, Throughput=101.53bps
+  2026-01-29 10:29:44 ~ IPv6: Latency=0.00ms, Jitter=0.00ms, Loss=100.00%, Throughput=0.00bps

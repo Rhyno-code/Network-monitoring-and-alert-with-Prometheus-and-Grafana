@@ -1,0 +1,82 @@
+groups:
+- name: SynFloodMonitoring
+  rules:
+  # Alert when SYN packets per second exceed the threshold (100)
+  - alert: HighSynRate
+    expr: syn_packets_per_second > 100
+    for: 1m  # Alert if condition persists for 1 minute
+    labels:
+      severity: warning
+    annotations:
+      summary: "High SYN packet rate detected"
+      description: "SYN packets per second ({{ $value }}) exceeds threshold of 100 on interface {{ $labels.instance }}."
+
+  # Alert when total SYN packets grow unusually fast (e.g., 1000 in 5 minutes)
+  - alert: HighSynPacketVolume
+    expr: rate(syn_packets_total[5m]) * 300 > 1000  # 300 seconds = 5 minutes
+    for: 2m
+    labels:
+      severity: critical
+    annotations:
+      summary: "Rapid increase in SYN packets"
+      description: "Total SYN packets increasing at a rate of {{ $value }} packets over 5 minutes, exceeding threshold of 1000."
+
+  # Alert when half-open connections exceed 50
+  - alert: TooManyHalfOpenConnections
+    expr: half_open_connections > 50
+    for: 1m
+    labels:
+      severity: warning
+    annotations:
+      summary: "Excessive half-open connections"
+      description: "Number of half-open connections ({{ $value }}) exceeds threshold of 50 on {{ $labels.instance }}."
+
+  # Alert when ICMP packets per second exceed the threshold (100)
+  - alert: HighICMPRate
+    expr: icmp_packets_per_second > 100
+    for: 1m  # Alert if condition persists for 1 minute
+    labels:
+      severity: warning
+    annotations:
+      summary: "High ICMP packet rate detected"
+      description: "ICMP packets per second ({{ $value }}) exceeds threshold of 100 on interface {{ $labels.instance }}."
+
+  # Alert when total ICMP packets grow unusually fast (e.g., 1000 in 5 minutes)
+  - alert: HighICMPPacketVolume
+    expr: rate(icmp_packets_total[5m]) * 300 > 1000  # 300 seconds = 5 minutes
+    for: 2m
+    labels:
+      severity: critical
+    annotations:
+      summary: "Rapid increase in ICMP packets"
+      description: "Total ICMP packets increasing at a rate of {{ $value }} packets over 5 minutes, exceeding threshold of 1000."
+
+  # Alert when CPU usage exceeds 80%
+  - alert: HighCPUUsage
+    expr: cpu_usage_percent > 80
+    for: 5m
+    labels:
+      severity: warning
+    annotations:
+      summary: "High CPU usage detected"
+      description: "CPU usage ({{ $value }}%) exceeds threshold of 80% on {{ $labels.instance }}."
+
+  # Alert when memory usage exceeds 90%
+  - alert: HighMemoryUsage
+    expr: memory_usage_percent > 90
+    for: 5m
+    labels:
+      severity: critical
+    annotations:
+      summary: "High memory usage detected"
+      description: "Memory usage ({{ $value }}%) exceeds threshold of 90% on {{ $labels.instance }}."
+
+  # Alert when unique source IPs exceed 100 (indicating potential distributed attack)
+  - alert: HighSourceIPDiversity
+    expr: source_ip_diversity > 100
+    for: 2m
+    labels:
+      severity: warning
+    annotations:
+      summary: "High diversity in source IPs"
+      description: "Number of unique source IPs ({{ $value }}) exceeds threshold of 100, suggesting a possible distributed attack."
